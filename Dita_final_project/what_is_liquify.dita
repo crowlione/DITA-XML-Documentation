@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_liquify">
+    <title>What is liquify?</title>
+    <shortdesc>The Liquify filter lets you push, pull, rotate, reflect and bloat any area of an
+        image.</shortdesc>
+    <conbody>
+        <p>The distortions you create can be subtle or drastic, which makes the Liquify command a
+            powerful tool for retouching images as well as creating artistic effects. </p>
+        <fig id="fig_v3s_fj2_ypb">
+            <title>Liquify Tool Before and After</title>
+            <image placement="break" href="../FacialAwareLiquify_BA-742x700.jpeg"
+                id="image_w3s_fj2_ypb">
+                <alt>Liquify Tool Example</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

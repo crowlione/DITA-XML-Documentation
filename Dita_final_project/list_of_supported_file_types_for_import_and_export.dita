@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="list_of_supported_file_types_for_import_and_export">
+    <title>List of supported file types for import and export</title>
+    <shortdesc>Here you will find all supported files formats for import and export.</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_j3w_5t2_ypb">
+            <title>Supported file types</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>File Type</entry>
+                        <entry>Import Support</entry>
+                        <entry>Export Support</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>.procreate</entry>
+                        <entry>Yes</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>PSD</entry>
+                        <entry>Yes</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>JPEG</entry>
+                        <entry>Yes</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>PNG</entry>
+                        <entry>Yes</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>TIFF</entry>
+                        <entry>Yes</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>GIF</entry>
+                        <entry>Yes</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>PDF</entry>
+                        <entry>No</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>Animated GIF</entry>
+                        <entry>No</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>Animated PNG</entry>
+                        <entry>No</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>Animated MP4</entry>
+                        <entry>No</entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>Animated HEVC</entry>
+                        <entry>No</entry>
+                        <entry>Yes</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_turn_on_drawing_assist">
+    <title>How to activate drawing guides</title>
+    <shortdesc><b>Drawing Guide</b> provides a basic grid over your canvas in order to help you with
+        proportions.</shortdesc>
+    <taskbody>
+        <prereq conref="how_to_use_the_liquify_tool.dita#how_to_use_the_liquify_tool/basic_prereq"
+            id="prereq_jvf_z42_ypb"/>
+        <context>
+            <p>Add a visual guide to your canvas to help you build realistic environments and
+                objects.</p>
+        </context>
+        <steps>
+            <step id="actions_step1">
+                <cmd>Tap the <b>Actions icon.</b><image href="../settings.png" width="40"
+                        height="40" id="image_jkh_pt2_ypb">
+                        <alt>Actions icon</alt>
+                    </image></cmd>
+            </step>
+            <step id="actions_canvas">
+                <cmd>Tap on <b>Canvas</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Toggle the swith on the <b>Drawing Guide</b> tab.</cmd>
+            </step>
+        </steps>
+        <result id="result_jvj_cr2_ypb"><fig id="fig_vn5_mr2_ypb">
+                <title>Drawing Guides Toggle</title>
+                <image placement="break" href="../1599616270Activate%20ENG.jfif"
+                    id="image_wn5_mr2_ypb">
+                    <alt>Drawing Guides Toggle</alt>
+                </image>
+            </fig>A grid composed of squares will appear over your artwork.</result>
+        <example id="example_yy2_2r2_ypb">The drawing guide is perfect to use when you are painting
+            a photorealistic piece and need spot on proportions.</example>
+    </taskbody>
+    <related-links>
+        <link
+            href="https://github.com/crowlione/tw-final-project/wiki/Procreate-for-iPadOS:--A-Quick-Start-Guide#Overview-of-the-Left-Navigation"
+            format="html" scope="external"/>
+    </related-links>
+</task>

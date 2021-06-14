@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="shortcuts_and_gestures">
+    <title>Shortcuts and gestures</title>
+    <shortdesc>Here is a lift of some shortcuts and gestures you might find useful.</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_lzk_n52_ypb">
+            <title>Shortcuts and Gestures</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Function</entry>
+                        <entry>Gesture</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Zoom In</entry>
+                        <entry>Pinch 2 fingers outwards</entry>
+                    </row>
+                    <row>
+                        <entry>Zoom Out</entry>
+                        <entry>Pinch 2 fingers inwards</entry>
+                    </row>
+                    <row>
+                        <entry>Undo</entry>
+                        <entry>Tap screen with 2 fingers</entry>
+                    </row>
+                    <row>
+                        <entry>Continuos Undo</entry>
+                        <entry>Hold down with 2 fingers</entry>
+                    </row>
+                    <row>
+                        <entry>Redo</entry>
+                        <entry>Tap screen with 3 fingers</entry>
+                    </row>
+                    <row>
+                        <entry>Continuos Redo</entry>
+                        <entry>Hold down with 3 fingers</entry>
+                    </row>
+                    <row>
+                        <entry>Rotate</entry>
+                        <entry>Twist with 2 fingers</entry>
+                    </row>
+                    <row>
+                        <entry>Eye Dropper</entry>
+                        <entry>Tap &amp; hold 1 finger on color</entry>
+                    </row>
+                    <row>
+                        <entry>Erase Layer</entry>
+                        <entry>Wiggle 3 fingers</entry>
+                    </row>
+                    <row>
+                        <entry>Normal Size</entry>
+                        <entry>Pinch 2 fingers closed</entry>
+                    </row>
+                    <row>
+                        <entry>Cut/Copy/Paste</entry>
+                        <entry>Swipe down with 3 fingers</entry>
+                    </row>
+                    <row>
+                        <entry>Full Screen</entry>
+                        <entry>Tap with 4 fingers</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

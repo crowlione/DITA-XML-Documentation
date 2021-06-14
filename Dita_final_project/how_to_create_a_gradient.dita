@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_a_gradient">
+    <title>How to create a gradient</title>
+    <shortdesc>In this section you will learn how to create basic gradients in
+        Procreate.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_wgf_kjl_xpb">
+            <p>In order to create a gradient you first need to have purchased Procreate and have a
+                loaded project.</p>
+        </prereq>
+        <context>
+            <p>Gradients can be added to any project to create visual interest and help move users
+                through a design. The gradients are a highly useful and engaging design tool.</p>
+        </context>
+        <steps>
+            <step
+                conref="how_to_use_the_liquify_tool.dita#how_to_use_the_liquify_tool/adjustments_step">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Tap on <b>Gradient Map</b></cmd>
+                <info>
+                    <fig id="fig_esq_5m2_ypb">
+                        <title>Gradient Map</title>
+                        <image placement="break" href="../IMG_0145.PNG" id="image_fsq_5m2_ypb">
+                            <alt>Gradient Map</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose a gradient palette from the Gradient Library toolbar that has
+                    appeared.</cmd>
+            </step>
+            <step>
+                <cmd>Use your fimger to slide the palette color in order to alter the
+                    gradient.</cmd>
+            </step>
+        </steps>
+        <result id="result_uwl_dn2_ypb">
+            <p>The gradient palette you have created will appear on the layer you are currently
+                working on.</p>
+        </result>
+        <example id="example_j5q_fn2_ypb">Gradients make a perfect background for any design. They
+            are also very trendy right now!</example>
+    </taskbody>
+</task>

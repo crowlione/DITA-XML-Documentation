@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map collection-type="choice">
+    <title>Procreate End-User Guide</title>
+    <topichead navtitle="Introduction">
+        <topicref href="what_is_procreate.dita"/>
+    </topichead>
+    <topichead navtitle="Gradients">
+        <topicref href="what_are_gradients.dita"/>
+        <topicref href="how_to_create_a_gradient.dita"/>
+    </topichead>
+    <topichead navtitle="Layers">
+        <topicref href="what_are_layers.dita"/>
+        <topicref href="how_to_change_the_layer_blend_mode.dita"/>
+        <topicref href="how_to_add_layer_masks.dita"/>
+    </topichead>
+    <topichead navtitle="Liquify">
+        <topicref href="what_is_liquify.dita"/>
+        <topicref href="how_to_use_the_liquify_tool.dita"/>
+    </topichead>
+    <topichead navtitle="Drawing Guides" audience="illustrator">
+        <topicref href="how_to_turn_on_drawing_assist.dita"/>
+    </topichead>
+    <topichead navtitle="Animation" audience="animator">
+        <topicref href="how_to_create_a_basic_animation.dita"/>
+    </topichead>
+    <topichead navtitle="References">
+        <topicref href="list_of_supported_file_types_for_import_and_export.dita"/>
+        <topicref href="shortcuts_and_gestures.dita"/>
+    </topichead>
+</map>

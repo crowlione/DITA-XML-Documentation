@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_procreate">
+    <title>What is Procreate?</title>
+    <shortdesc>In this documentation you will leran about Procreate and its more advanced features. </shortdesc>
+    <conbody>
+        <p>Procreate is a raster graphics editor app for digital painting developed and published by
+            Savage Interactive for iOS and iPadOS. The aim of Procreate is to recreate the natural
+            feel of physical drawing, while providing all the advantages of a digital platform.</p>
+        <p>This End-User guide is inteded for people that are already familiar with the basic
+            Procreate interface. If you are a complete newbie to Procreate, please check out our
+                <xref
+                href="https://github.com/crowlione/tw-final-project/wiki/Procreate-for-iPadOS:--A-Quick-Start-Guide#Overview-of-the-Left-Navigation"
+                format="html" scope="external">Procreate Quick Start Guide</xref>. <image
+                href="../procrete.jpeg" width="50" height="50" id="image_zfv_dx2_ypb">
+                <alt>Procreate Logo</alt>
+            </image></p>
+    </conbody>
+</concept>

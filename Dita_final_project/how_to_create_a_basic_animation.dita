@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_a_basic_animation">
+    <title>How to create a basic animation</title>
+    <shortdesc>Procreate offers a simple but very useful interface aimed at animators.</shortdesc>
+    <taskbody>
+        <prereq conref="how_to_use_the_liquify_tool.dita#how_to_use_the_liquify_tool/basic_prereq"
+            id="prereq_xqy_yr2_ypb"/>
+        <context>
+            <p>Animation Assist offers the ability to edit and manage both individual frames and the
+                animation as a whole.</p>
+        </context>
+        <steps>
+            <step
+                conref="how_to_turn_on_drawing_assist.dita#how_to_turn_on_drawing_assist/actions_step1">
+                <cmd/>
+            </step>
+            <step
+                conref="how_to_turn_on_drawing_assist.dita#how_to_turn_on_drawing_assist/actions_canvas">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Toggle the <b>Animation Assist</b> on.</cmd>
+                <info>
+                    <fig id="fig_ij2_ns2_ypb">
+                        <title>Animation Assist Toggle</title>
+                        <image placement="break" href="../animatioAssist.jfif"
+                            id="image_jj2_ns2_ypb">
+                            <alt>Animation Assist Toggle</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Select a frame you want to work on from the <b>Animation Panel</b> that has
+                    shown up at the bottom of the screen.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <b>Add Frame</b> to add new frames to your animation.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <b>Play</b> to preview your animation sequence.</cmd>
+            </step>
+            <step>
+                <cmd>Export your animation as a GIF, PNG or MP4.</cmd>
+            </step>
+        </steps>
+        <result id="result_ygm_ws2_ypb">
+            <p>You must have a simple sequence animation ready.</p>
+        </result>
+    </taskbody>
+    <related-links>
+        <link href="list_of_supported_file_types_for_import_and_export.dita"/>
+        <link
+            href="https://github.com/crowlione/tw-final-project/wiki/Procreate-for-iPadOS:--A-Quick-Start-Guide#Overview-of-the-Left-Navigation"
+            format="html" scope="external"/>
+    </related-links>
+</task>

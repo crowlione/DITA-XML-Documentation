@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_are_layers">
+    <title>What are layers?</title>
+    <shortdesc>In this topic you will learn what layers are and when to use them.</shortdesc>
+    <conbody>
+        <p><b>Layers</b> are an essential digital feature of image editing software. They are like
+            stacked sheets of transparent paper. Using <b>layers</b> to overlap each other gives
+            depth to a design. <b>Layers</b> are used in digital image editing to separate different
+            elements of an image. </p>
+        <p/>
+    </conbody>
+</concept>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_change_the_layer_blend_mode">
+    <title>How to change the layer blend mode</title>
+    <shortdesc><b>Layer blend modes</b> change the way <b>layers</b> react with each other. These
+        are like sunglasses for your layers that can become x-ray specs and a whole lot
+        more.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_gmt_mxy_xpb">
+            <p conref="how_to_add_layer_masks.dita#how_to_add_layer_masks/layers_prereq"/>
+        </prereq>
+        <context>
+            <p>You can use blending modes whenever you need to change how the colors of a whole
+                level interact. </p>
+        </context>
+        <steps>
+            <step id="layers_first_step">
+                <cmd>Click on the <b>Layers icon </b><image
+                        href="../Project_Procreate/layers-icon.jpg" width="40" height="40"
+                        id="image_vvq_hry_xpb">
+                        <alt>Layers icon</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Select the layer you want to apply the blend mode to.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the <b>"N"</b> symbol on the right side of the layer.</cmd>
+                <info>
+                    <fig id="fig_lwq_ff2_ypb">
+                        <title>Layer blend mode symbol</title>
+                        <image placement="break" href="../IMG_0141.PNG" id="image_mwq_ff2_ypb">
+                            <alt>Layer blend mode symbol</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose a new blend mode of choice from the drop down menu that has shown up.
+                    The default is <b>Normal</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_aqt_mf2_ypb">
+            <p>You have now changed the blend mode and the symbol on the right side of the layers
+                panel will no longer be "N".</p>
+        </result>
+        <example id="example_bjh_rf2_ypb">
+            <p>If you choose a layer mode like <b>"Darken"</b> for example, you will be anything
+                that is darker than white is going to have some darkening effect on the pixels below
+                it.</p>
+        </example>
+    </taskbody>
+</task>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Description:layers prereq-->
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ReusableComponent_njl_pwy_xpb">
+    <title/>
+    <taskbody>
+        <prereq id="prereq_dg4_fml_xpb"><p>In order to add layer masks you need an open project in
+                Procreate with at least 1 added layer.</p></prereq>
+    </taskbody>
+</task>

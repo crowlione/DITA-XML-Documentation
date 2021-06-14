@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_use_the_liquify_tool">
+    <title>How to use the Liquify Tool</title>
+    <shortdesc>The Liqufy Tool provides and easy to use interface for Liquify.</shortdesc>
+    <taskbody>
+        <prereq id="basic_prereq">
+            <p>Before you begin you need an open project in Procreate with some content on it.</p>
+        </prereq>
+        <context>
+            <p>With this tool you can push, pull, rotate, reflect and bloat any area of an
+                image.</p>
+        </context>
+        <steps>
+            <step id="adjustments_step">
+                <cmd>Tap the <b>Adjustments icon</b>on the left side of the top toolbar. <image
+                        placement="inline" href="../adjustments%20icon.png" width="40" height="40"
+                        id="image_t5h_ck2_ypb">
+                        <alt>adjustments icon</alt>
+                    </image></cmd>
+            </step>
+            <step>
+                <cmd>Tap on <b>Liquify</b>.</cmd>
+                <info>
+                    <fig id="fig_tvd_jk2_ypb">
+                        <title>Liquify Tool</title>
+                        <image placement="break" href="../IMG_0143.PNG" id="image_uvd_jk2_ypb">
+                            <alt>Liquify Tool</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>From the bottom toolbox that has appeared, choose a liquify option and your
+                    preffered brush settings.</cmd>
+                <info>
+                    <fig id="fig_k1d_cl2_ypb">
+                        <title>Liquify Toolbox</title>
+                        <image placement="break" href="../Untitled.png" id="image_l1d_cl2_ypb">
+                            <alt>Liquify Toolbox</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Start "painting" the changes on.</cmd>
+            </step>
+        </steps>
+        <result id="result_m2c_2l2_ypb">
+            <p>You should see the distortion of your choice appear over your painting.</p>
+        </result>
+        <example id="example_ih1_gl2_ypb">All those before and after images we see of celebrities
+            are a courtesy of the The Liquify Tool.</example>
+    </taskbody>
+    <related-links>
+        <link
+            href="https://github.com/crowlione/tw-final-project/wiki/Procreate-for-iPadOS:--A-Quick-Start-Guide#Overview-of-the-Left-Navigation"
+            format="html" scope="external"/>
+    </related-links>
+</task>

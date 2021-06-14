@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_layer_masks">
+    <title>How to add layer masks</title>
+    <shortdesc>In this section you will learn about layer masks and how to integrate them in your
+        design.</shortdesc>
+    <taskbody>
+        <prereq id="layer_mask_prereq">
+            <p id="layers_prereq">Before you begin you need an open project in Procreate with at
+                least 1 added layer.</p>
+        </prereq>
+        <context>
+            <p><b>Layer masks</b> allow you to selectively modify the opacity (transparency) of the
+                layer they belong to. They are especially useful when you need to selectively modify
+                the opacity of different areas across a single layer.</p>
+        </context>
+        <steps>
+            <step
+                conref="how_to_change_the_layer_blend_mode.dita#how_to_change_the_layer_blend_mode/layers_first_step">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Swipe right-to-left on your layer of choice to open the menu.</cmd>
+                <info>
+                    <fig id="fig_kss_rh2_ypb">
+                        <title>Layer Mask menu</title>
+                        <image placement="break" href="../IMG_0142.PNG" id="image_lss_rh2_ypb">
+                            <alt>layer mask menu</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Tap on <b>Mask</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_tjg_232_ypb">
+            <p>Your layer mask will appear above the selected layer.</p>
+            <image placement="break" href="../Capture.PNG" id="image_b31_k32_ypb">
+                <alt>layer mask abote selected layer</alt>
+            </image>
+        </result>
+        <example id="example_fsv_k32_ypb">
+            <p>Erasing or painting in black hides parts of the parent layer, and painting in white
+                reveals parts. Varying shades of gray alter the content with corresponding levels of
+                opacity.</p>
+        </example>
+    </taskbody>
+</task>

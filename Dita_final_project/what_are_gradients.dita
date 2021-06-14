@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_are_gradients">
+    <title>What are gradients?</title>
+    <shortdesc>In this section you will learn about gradients and when to use them.</shortdesc>
+    <conbody>
+        <p>In computer graphics, a <b>color gradient</b> specifies a range of position-dependent
+            colors, usually used to fill a region. The colors produced by a gradient vary
+            continuously with position, producing smooth color transitions.</p>
+        <p>Simply said a color gradient is a set of colors arranged in a linear order.</p>
+        <fig id="fig_jpq_4n2_ypb">
+            <title>Gradient Example</title>
+            <image placement="break" href="../gradient-lettering-tutorial-2.jpg"
+                id="image_kpq_4n2_ypb">
+                <alt>Gradient Example</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

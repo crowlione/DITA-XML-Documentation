@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " collection-type="choice" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:31" xtrf="file:/D:/Uni/TechnicalWriting/Dita_final_project/procreate_end_user_guide.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Procreate End-User Guide</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Procreate End-User Guide</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Introduction"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d123e14">Introduction</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_procreate"><resourceid appid="what_is_procreate" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is Procreate?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In this documentation you will leran about Procreate and its more advanced features. </shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Gradients"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d123e27">Gradients</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_gradients"><resourceid appid="what_are_gradients" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">What are gradients?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In this section you will learn about gradients and when to use them.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_a_gradient"><resourceid appid="how_to_create_a_gradient" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to create a gradient</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In this section you will learn how to create basic gradients in         Procreate.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Layers"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d123e51">Layers</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_layers"><resourceid appid="what_are_layers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">What are layers?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In this topic you will learn what layers are and when to use them.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_change_the_layer_blend_mode"><resourceid appid="how_to_change_the_layer_blend_mode" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to change the layer blend mode</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><b class="+ topic/ph hi-d/b ">Layer blend modes</b> change the way <b class="+ topic/ph hi-d/b ">layers</b> react with each other. These         are like sunglasses for your layers that can become x-ray specs and a whole lot         more.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_add_layer_masks"><resourceid appid="how_to_add_layer_masks" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">How to add layer masks</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">In this section you will learn about layer masks and how to integrate them in your         design.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Liquify"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d123e91">Liquify</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_liquify"><resourceid appid="what_is_liquify" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">What is liquify?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The Liquify filter lets you push, pull, rotate, reflect and bloat any area of an         image.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_use_the_liquify_tool"><resourceid appid="how_to_use_the_liquify_tool" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">How to use the Liquify Tool</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The Liqufy Tool provides and easy to use interface for Liquify.</shortdesc></topicmeta></topicref></topichead>
+    
+    <topichead audience="animator" is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Animation"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d123e116">Animation</navtitle></topicmeta><topicref audience="animator" class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_a_basic_animation"><resourceid appid="how_to_create_a_basic_animation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">How to create a basic animation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Procreate offers a simple but very useful interface aimed at animators.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="References"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d123e129">References</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_10" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="list_of_supported_file_types_for_import_and_export"><resourceid appid="list_of_supported_file_types_for_import_and_export" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">List of supported file types for import and export</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find all supported files formats for import and export.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="shortcuts_and_gestures"><resourceid appid="shortcuts_and_gestures" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Shortcuts and gestures</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here is a lift of some shortcuts and gestures you might find useful.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d123e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Introduction</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_is_procreate" oid="what_is_procreate" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Procreate?</ph></title>
+    <shortdesc class="- topic/shortdesc ">In this documentation you will leran about Procreate and its more advanced features. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Procreate is a raster graphics editor app for digital painting developed and published by
+            Savage Interactive for iOS and iPadOS. The aim of Procreate is to recreate the natural
+            feel of physical drawing, while providing all the advantages of a digital platform.</p>
+        <p class="- topic/p ">This End-User guide is inteded for people that are already familiar with the basic
+            Procreate interface. If you are a complete newbie to Procreate, please check out our
+                <xref class="- topic/xref " format="html" href="https://github.com/crowlione/tw-final-project/wiki/Procreate-for-iPadOS:--A-Quick-Start-Guide#Overview-of-the-Left-Navigation" scope="external"><?ditaot usertext?>Procreate Quick Start Guide</xref>. <image class="- topic/image " height="50" href="file:/D:/Uni/TechnicalWriting/procrete.jpeg" id="unique_1_Connect_42_image_zfv_dx2_ypb" nd:nd-id="image_zfv_dx2_ypb" placement="inline" width="50">
+                <alt class="- topic/alt ">Procreate Logo</alt>
+            </image></p>
+    </conbody>
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d123e27" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Gradients</ph></title><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="what_are_gradients" oid="what_are_gradients" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What are gradients?</ph></title>
+    <shortdesc class="- topic/shortdesc ">In this section you will learn about gradients and when to use them.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">In computer graphics, a <b class="+ topic/ph hi-d/b ">color gradient</b> specifies a range of position-dependent
+            colors, usually used to fill a region. The colors produced by a gradient vary
+            continuously with position, producing smooth color transitions.</p>
+        <p class="- topic/p ">Simply said a color gradient is a set of colors arranged in a linear order.</p>
+        <fig class="- topic/fig " id="unique_2_Connect_42_fig_jpq_4n2_ypb" nd:nd-id="fig_jpq_4n2_ypb"><title class="- topic/title ">Gradient Example</title><image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/gradient-lettering-tutorial-2.jpg" id="unique_2_Connect_42_image_kpq_4n2_ypb" nd:nd-id="image_kpq_4n2_ypb" placement="break">
+                <alt class="- topic/alt ">Gradient Example</alt>
+            </image></fig>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="how_to_create_a_gradient" oid="how_to_create_a_gradient" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to create a gradient</ph></title>
+    <shortdesc class="- topic/shortdesc ">In this section you will learn how to create basic gradients in
+        Procreate.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_wgf_kjl_xpb" nd:nd-id="prereq_wgf_kjl_xpb">
+            <p class="- topic/p ">In order to create a gradient you first need to have purchased Procreate and have a
+                loaded project.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Gradients can be added to any project to create visual interest and help move users
+                through a design. The gradients are a highly useful and engaging design tool.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap the <b class="+ topic/ph hi-d/b ">Adjustments icon</b>on the left side of the top toolbar. <image class="- topic/image " height="40" href="file:/D:/Uni/TechnicalWriting/adjustments%20icon.png" id="unique_3_Connect_42_d21e39" nd:nd-id="d21e39" placement="inline" width="40">
+                        <alt class="- topic/alt ">adjustments icon</alt>
+                    </image></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap on <b class="+ topic/ph hi-d/b ">Gradient Map</b></cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_3_Connect_42_fig_esq_5m2_ypb" nd:nd-id="fig_esq_5m2_ypb"><title class="- topic/title ">Gradient Map</title><image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/IMG_0145.PNG" id="unique_3_Connect_42_image_fsq_5m2_ypb" nd:nd-id="image_fsq_5m2_ypb" placement="break">
+                            <alt class="- topic/alt ">Gradient Map</alt>
+                        </image></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose a gradient palette from the Gradient Library toolbar that has
+                    appeared.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use your fimger to slide the palette color in order to alter the
+                    gradient.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_3_Connect_42_result_uwl_dn2_ypb" nd:nd-id="result_uwl_dn2_ypb">
+            <p class="- topic/p ">The gradient palette you have created will appear on the layer you are currently
+                working on.</p>
+        </result>
+        <example class="- topic/example " id="unique_3_Connect_42_example_j5q_fn2_ypb" nd:nd-id="example_j5q_fn2_ypb">Gradients make a perfect background for any design. They
+            are also very trendy right now!</example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d123e51" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Layers</ph></title><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="what_are_layers" oid="what_are_layers" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What are layers?</ph></title>
+    <shortdesc class="- topic/shortdesc ">In this topic you will learn what layers are and when to use them.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Layers</b> are an essential digital feature of image editing software. They are like
+            stacked sheets of transparent paper. Using <b class="+ topic/ph hi-d/b ">layers</b> to overlap each other gives
+            depth to a design. <b class="+ topic/ph hi-d/b ">Layers</b> are used in digital image editing to separate different
+            elements of an image. </p>
+        <p class="- topic/p "/>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_change_the_layer_blend_mode" oid="how_to_change_the_layer_blend_mode" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to change the layer blend mode</ph></title>
+    <shortdesc class="- topic/shortdesc "><b class="+ topic/ph hi-d/b ">Layer blend modes</b> change the way <b class="+ topic/ph hi-d/b ">layers</b> react with each other. These
+        are like sunglasses for your layers that can become x-ray specs and a whole lot
+        more.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_5_Connect_42_prereq_gmt_mxy_xpb" nd:nd-id="prereq_gmt_mxy_xpb">
+            <p class="- topic/p ">Before you begin you need an open project in Procreate with at
+                least 1 added layer.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You can use blending modes whenever you need to change how the colors of a whole
+                level interact. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step " id="unique_5_Connect_42_layers_first_step" nd:nd-id="layers_first_step">
+                <cmd class="- topic/ph task/cmd ">Click on the <b class="+ topic/ph hi-d/b ">Layers icon </b><image class="- topic/image " height="40" href="file:/D:/Uni/TechnicalWriting/Project_Procreate/layers-icon.jpg" id="unique_5_Connect_42_image_vvq_hry_xpb" nd:nd-id="image_vvq_hry_xpb" placement="inline" width="40">
+                        <alt class="- topic/alt ">Layers icon</alt>
+                    </image></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the layer you want to apply the blend mode to.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the <b class="+ topic/ph hi-d/b ">"N"</b> symbol on the right side of the layer.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_5_Connect_42_fig_lwq_ff2_ypb" nd:nd-id="fig_lwq_ff2_ypb"><title class="- topic/title ">Layer blend mode symbol</title><image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/IMG_0141.PNG" id="unique_5_Connect_42_image_mwq_ff2_ypb" nd:nd-id="image_mwq_ff2_ypb" placement="break">
+                            <alt class="- topic/alt ">Layer blend mode symbol</alt>
+                        </image></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose a new blend mode of choice from the drop down menu that has shown up.
+                    The default is <b class="+ topic/ph hi-d/b ">Normal</b>.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_5_Connect_42_result_aqt_mf2_ypb" nd:nd-id="result_aqt_mf2_ypb">
+            <p class="- topic/p ">You have now changed the blend mode and the symbol on the right side of the layers
+                panel will no longer be "N".</p>
+        </result>
+        <example class="- topic/example " id="unique_5_Connect_42_example_bjh_rf2_ypb" nd:nd-id="example_bjh_rf2_ypb">
+            <p class="- topic/p ">If you choose a layer mode like <b class="+ topic/ph hi-d/b ">"Darken"</b> for example, you will be anything
+                that is darker than white is going to have some darkening effect on the pixels below
+                it.</p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_add_layer_masks" oid="how_to_add_layer_masks" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to add layer masks</ph></title>
+    <shortdesc class="- topic/shortdesc ">In this section you will learn about layer masks and how to integrate them in your
+        design.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_6_Connect_42_layer_mask_prereq" nd:nd-id="layer_mask_prereq">
+            <p class="- topic/p " id="unique_6_Connect_42_layers_prereq" nd:nd-id="layers_prereq">Before you begin you need an open project in Procreate with at
+                least 1 added layer.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Layer masks</b> allow you to selectively modify the opacity (transparency) of the
+                layer they belong to. They are especially useful when you need to selectively modify
+                the opacity of different areas across a single layer.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click on the <b class="+ topic/ph hi-d/b ">Layers icon </b><image class="- topic/image " height="40" href="file:/D:/Uni/TechnicalWriting/Project_Procreate/layers-icon.jpg" id="unique_6_Connect_42_d22e42" nd:nd-id="d22e42" placement="inline" width="40">
+                        <alt class="- topic/alt ">Layers icon</alt>
+                    </image></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Swipe right-to-left on your layer of choice to open the menu.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_6_Connect_42_fig_kss_rh2_ypb" nd:nd-id="fig_kss_rh2_ypb"><title class="- topic/title ">Layer Mask menu</title><image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/IMG_0142.PNG" id="unique_6_Connect_42_image_lss_rh2_ypb" nd:nd-id="image_lss_rh2_ypb" placement="break">
+                            <alt class="- topic/alt ">layer mask menu</alt>
+                        </image></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap on <b class="+ topic/ph hi-d/b ">Mask</b>.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_6_Connect_42_result_tjg_232_ypb" nd:nd-id="result_tjg_232_ypb">
+            <p class="- topic/p ">Your layer mask will appear above the selected layer.</p>
+            <image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/Capture.PNG" id="unique_6_Connect_42_image_b31_k32_ypb" nd:nd-id="image_b31_k32_ypb" placement="break">
+                <alt class="- topic/alt ">layer mask abote selected layer</alt>
+            </image>
+        </result>
+        <example class="- topic/example " id="unique_6_Connect_42_example_fsv_k32_ypb" nd:nd-id="example_fsv_k32_ypb">
+            <p class="- topic/p ">Erasing or painting in black hides parts of the parent layer, and painting in white
+                reveals parts. Varying shades of gray alter the content with corresponding levels of
+                opacity.</p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d123e91" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Liquify</ph></title><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="what_is_liquify" oid="what_is_liquify" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is liquify?</ph></title>
+    <shortdesc class="- topic/shortdesc ">The Liquify filter lets you push, pull, rotate, reflect and bloat any area of an
+        image.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The distortions you create can be subtle or drastic, which makes the Liquify command a
+            powerful tool for retouching images as well as creating artistic effects. </p>
+        <fig class="- topic/fig " id="unique_7_Connect_42_fig_v3s_fj2_ypb" nd:nd-id="fig_v3s_fj2_ypb"><title class="- topic/title ">Liquify Tool Before and After</title><image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/FacialAwareLiquify_BA-742x700.jpeg" id="unique_7_Connect_42_image_w3s_fj2_ypb" nd:nd-id="image_w3s_fj2_ypb" placement="break">
+                <alt class="- topic/alt ">Liquify Tool Example</alt>
+            </image></fig>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="how_to_use_the_liquify_tool" oid="how_to_use_the_liquify_tool" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to use the Liquify Tool</ph></title>
+    <shortdesc class="- topic/shortdesc ">The Liqufy Tool provides and easy to use interface for Liquify.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_8_Connect_42_basic_prereq" nd:nd-id="basic_prereq">
+            <p class="- topic/p ">Before you begin you need an open project in Procreate with some content on it.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">With this tool you can push, pull, rotate, reflect and bloat any area of an
+                image.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step " id="unique_8_Connect_42_adjustments_step" nd:nd-id="adjustments_step">
+                <cmd class="- topic/ph task/cmd ">Tap the <b class="+ topic/ph hi-d/b ">Adjustments icon</b>on the left side of the top toolbar. <image class="- topic/image " height="40" href="file:/D:/Uni/TechnicalWriting/adjustments%20icon.png" id="unique_8_Connect_42_image_t5h_ck2_ypb" nd:nd-id="image_t5h_ck2_ypb" placement="inline" width="40">
+                        <alt class="- topic/alt ">adjustments icon</alt>
+                    </image></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap on <b class="+ topic/ph hi-d/b ">Liquify</b>.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_8_Connect_42_fig_tvd_jk2_ypb" nd:nd-id="fig_tvd_jk2_ypb"><title class="- topic/title ">Liquify Tool</title><image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/IMG_0143.PNG" id="unique_8_Connect_42_image_uvd_jk2_ypb" nd:nd-id="image_uvd_jk2_ypb" placement="break">
+                            <alt class="- topic/alt ">Liquify Tool</alt>
+                        </image></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From the bottom toolbox that has appeared, choose a liquify option and your
+                    preffered brush settings.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_8_Connect_42_fig_k1d_cl2_ypb" nd:nd-id="fig_k1d_cl2_ypb"><title class="- topic/title ">Liquify Toolbox</title><image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/Untitled.png" id="unique_8_Connect_42_image_l1d_cl2_ypb" nd:nd-id="image_l1d_cl2_ypb" placement="break">
+                            <alt class="- topic/alt ">Liquify Toolbox</alt>
+                        </image></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Start "painting" the changes on.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_8_Connect_42_result_m2c_2l2_ypb" nd:nd-id="result_m2c_2l2_ypb">
+            <p class="- topic/p ">You should see the distortion of your choice appear over your painting.</p>
+        </result>
+        <example class="- topic/example " id="unique_8_Connect_42_example_ih1_gl2_ypb" nd:nd-id="example_ih1_gl2_ypb">All those before and after images we see of celebrities
+            are a courtesy of the The Liquify Tool.</example>
+    </taskbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " format="html" href="https://github.com/crowlione/tw-final-project/wiki/Procreate-for-iPadOS:--A-Quick-Start-Guide#Overview-of-the-Left-Navigation" scope="external"/>
+    </related-links>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d123e116" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Animation</ph></title><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="how_to_create_a_basic_animation" oid="how_to_create_a_basic_animation" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to create a basic animation</ph></title>
+    <shortdesc class="- topic/shortdesc ">Procreate offers a simple but very useful interface aimed at animators.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_9_Connect_42_prereq_xqy_yr2_ypb" nd:nd-id="prereq_xqy_yr2_ypb">
+            <p class="- topic/p ">Before you begin you need an open project in Procreate with some content on it.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Animation Assist offers the ability to edit and manage both individual frames and the
+                animation as a whole.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap the <b class="+ topic/ph hi-d/b ">Actions icon.</b><image class="- topic/image " height="40" href="file:/D:/Uni/TechnicalWriting/settings.png" id="unique_9_Connect_42_d25e36" nd:nd-id="d25e36" placement="inline" width="40">
+                        <alt class="- topic/alt ">Actions icon</alt>
+                    </image></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap on <b class="+ topic/ph hi-d/b ">Canvas</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Toggle the <b class="+ topic/ph hi-d/b ">Animation Assist</b> on.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_9_Connect_42_fig_ij2_ns2_ypb" nd:nd-id="fig_ij2_ns2_ypb"><title class="- topic/title ">Animation Assist Toggle</title><image class="- topic/image " href="file:/D:/Uni/TechnicalWriting/animatioAssist.jfif" id="unique_9_Connect_42_image_jj2_ns2_ypb" nd:nd-id="image_jj2_ns2_ypb" placement="break">
+                            <alt class="- topic/alt ">Animation Assist Toggle</alt>
+                        </image></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select a frame you want to work on from the <b class="+ topic/ph hi-d/b ">Animation Panel</b> that has
+                    shown up at the bottom of the screen.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap <b class="+ topic/ph hi-d/b ">Add Frame</b> to add new frames to your animation.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap <b class="+ topic/ph hi-d/b ">Play</b> to preview your animation sequence.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Export your animation as a GIF, PNG or MP4.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_9_Connect_42_result_ygm_ws2_ypb" nd:nd-id="result_ygm_ws2_ypb">
+            <p class="- topic/p ">You must have a simple sequence animation ready.</p>
+        </result>
+    </taskbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_10" type="reference"><?ditaot gentext?><linktext class="- topic/linktext ">List of supported file types for import and export</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Here you will find all supported files formats for import and export.</desc></link>
+        <link class="- topic/link " format="html" href="https://github.com/crowlione/tw-final-project/wiki/Procreate-for-iPadOS:--A-Quick-Start-Guide#Overview-of-the-Left-Navigation" scope="external"/>
+    </related-links>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d123e129" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">References</ph></title><reference class="- topic/topic       reference/reference " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="list_of_supported_file_types_for_import_and_export" oid="list_of_supported_file_types_for_import_and_export" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">List of supported file types for import and export</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find all supported files formats for import and export.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_10_Connect_42_table_j3w_5t2_ypb" nd:nd-id="table_j3w_5t2_ypb" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Supported file types</ph></title>
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/D:/Uni/TechnicalWriting/Dita_final_project/list_of_supported_file_types_for_import_and_export.dita" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/D:/Uni/TechnicalWriting/Dita_final_project/list_of_supported_file_types_for_import_and_export.dita" style="width:33.3333%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;12:65" xtrf="file:/D:/Uni/TechnicalWriting/Dita_final_project/list_of_supported_file_types_for_import_and_export.dita" style="width:33.3333%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">File Type</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Import Support</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">Export Support</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">.procreate</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Yes</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">PSD</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Yes</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">JPEG</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Yes</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">PNG</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Yes</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">TIFF</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">Yes</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">GIF</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">Yes</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">PDF</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">No</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">Animated GIF</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">No</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">Animated PNG</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">No</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11">Animated MP4</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11">No</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11">Yes</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12">Animated HEVC</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12">No</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12">Yes</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="shortcuts_and_gestures" oid="shortcuts_and_gestures" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Shortcuts and gestures</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here is a lift of some shortcuts and gestures you might find useful.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_11_Connect_42_table_lzk_n52_ypb" nd:nd-id="table_lzk_n52_ypb" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Shortcuts and Gestures</ph></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/D:/Uni/TechnicalWriting/Dita_final_project/shortcuts_and_gestures.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/D:/Uni/TechnicalWriting/Dita_final_project/shortcuts_and_gestures.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Function</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Gesture</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Zoom In</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Pinch 2 fingers outwards</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Zoom Out</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Pinch 2 fingers inwards</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Undo</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Tap screen with 2 fingers</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Continuos Undo</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Hold down with 2 fingers</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Redo</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">Tap screen with 3 fingers</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">Continuos Redo</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">Hold down with 3 fingers</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">Rotate</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">Twist with 2 fingers</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">Eye Dropper</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">Tap &amp; hold 1 finger on color</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">Erase Layer</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">Wiggle 3 fingers</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11">Normal Size</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11">Pinch 2 fingers closed</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12">Cut/Copy/Paste</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12">Swipe down with 3 fingers</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13">Full Screen</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13">Tap with 4 fingers</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></topic></map>
